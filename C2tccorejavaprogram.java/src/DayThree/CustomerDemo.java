@@ -1,4 +1,6 @@
-package Day3.java;
+package DayThree;
+
+import Day3.java.Customer;
 
 public class CustomerDemo {
 	public static void main(String[] args) {
@@ -9,6 +11,4 @@ public class CustomerDemo {
 		System.out.println(c2);
 	}
 
-
 }
-

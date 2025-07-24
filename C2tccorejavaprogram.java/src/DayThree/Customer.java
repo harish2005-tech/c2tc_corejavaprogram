@@ -1,4 +1,4 @@
-package Day3.java;
+package DayThree;
 
 public class Customer {
 	private int cid;
@@ -39,5 +39,6 @@ public class Customer {
 	public String toString() {
 		return "Customer [cid=" + cid + ", cname=" + cname + ", city=" + city + "]";
 	}
+
 
 }
